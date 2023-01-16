@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "title": "Festool Пылеудаляющий аппарат CTL midi I cleantec",
+        "brand": "FESTOOL",
+        "category": 203,
+        "article": 574832,
+        "img": "./images/img0.jpg",
+        "price": 48490
+    },
+    {
+        "id": 1,
+        "title": "Перфоратор Festool BHC 18 Li-Basic-4,0",
+        "brand": "FESTOOL",
+        "category": 201,
+        "article": 577057,
+        "img": "./images/img1.jpg",
+        "price": 32990
+    },
+    {
+        "id": 2,
+        "title": "Рубанок Festool EHL 65 EQ-Plus",
+        "brand": "FESTOOL",
+        "category": 202,
+        "article": 576247,
+        "img": "./images/img2.jpg",
+        "price": 41990
+    },
+    {
+        "id": 3,
+        "title": "Аккумуляторная дрель-шуруповёрт BOSCH GSR 12V-35",
+        "brand": "BOSCH",
+        "category": 204,
+        "article": 0,
+        "img": "https://cdn.idealo.com/folder/Product/6584/7/6584716/s1_produktbild_max/bosch-gsr-12-v-35-professional-06019h8000.jpg",
+        "price": 11990
+    },
+    {
+        "id": 4,
+        "title": "Аккумуляторный лобзик Bosch GST 12V-70 ",
+        "brand": "BOSCH",
+        "category": 205,
+        "article": 0,
+        "img": "https://cdn.idealo.com/folder/Product/4226/0/4226039/s1_produktbild_max/bosch-gst-12v-70-professional-solo-zubehoer-6015a1001.jpg",
+        "price": 12990
+    },
+    {
+        "id": 5,
+        "title": "Аккумуляторный рубанок Bosch GHO 12V-20",
+        "brand": "BOSCH",
+        "category": 202,
+        "article": 0,
+        "img": "https://cdn.idealo.com/folder/Product/6155/8/6155832/s1_produktbild_max/bosch-gho-12v-20-ohne-akku.jpg",
+        "price": 22490
+    },
+    {
+        "id": 6,
+        "title": "Тележка на двух колёсах milwaukee packout",
+        "brand": "MILWAUKEE",
+        "category": 206,
+        "article": 4932472131,
+        "img": "https://cdn.idealo.com/folder/Product/201842/0/201842065/s1_produktbild_max/milwaukee-packout-2-wheeled-cart-4932472131.jpg",
+        "price": 23490
+    },
+    {
+        "id": 7,
+        "title": "Ящик с 2-мя выдвижными отсеками milwaukee packout",
+        "brand": "MILWAUKEE",
+        "category": 207,
+        "article": 4932472129,
+        "img": "https://cdn.idealo.com/folder/Product/201448/1/201448197/s1_produktbild_max/milwaukee-packout-mit-2-schubladen.jpg",
+        "price": 18990
+    },
+    {
+        "id": 8,
+        "title": "Ящик с 3-мя выдвижными отсеками Milwaukee packout",
+        "brand": "MILWAUKEE",
+        "category": 207,
+        "article": 4932472130,
+        "img": "https://cdn.idealo.com/folder/Product/201361/4/201361459/s1_produktbild_max/milwaukee-packout-koffer.jpg",
+        "price": 20990
+    }
+]
